@@ -14,7 +14,7 @@ class Dog
 end 
 
 sami = Dog.new
-sami.bark #> "woof!"
+sami.bark 
 
   
  
